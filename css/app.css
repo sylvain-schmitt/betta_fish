@@ -367,7 +367,9 @@ form{
 }
 .form-grid {
     display: grid;
+    /*
     grid-template-columns: 50% 50%;
+    */
     grid-template-rows: 100px 224px;
     grid-template-areas:
         "input1 input2"

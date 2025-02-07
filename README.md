@@ -27,22 +27,17 @@ Si vous souhaitez exécuter ce projet en local :
    ```bash
    git clone https://github.com/Sylvain-Schmitt/betta_fish.git
 
-Accédez au dossier du projet
-bash
-Copier
-Modifier
-cd betta_fish
-Ouvrez le fichier index.html dans votre navigateur préféré
-🤝 Contribuer
-Les contributions sont les bienvenues ! Pour proposer une amélioration :
+2. **Accédez au dossier du projet**
+   ```bash
+   cd betta_fish
 
-Forkez le projet 🍴
-Créez une branche (git checkout -b feature-amélioration) 🌿
-Apportez vos modifications ✏️
-Faites un commit (git commit -m "Ajout de ... ") ✅
-Poussez votre branche (git push origin feature-amélioration) 🚀
-Créez une pull request 🛠
-📜 Licence
-Ce projet est sous licence MIT, vous êtes libre de l'utiliser, le modifier et le partager.
+3. **Ouvrez le fichier index.html dans votre navigateur préféré**
+
+## Contribuer
+   Les contributions sont les bienvenues ! Vous pouvez proposer des améliorations en ouvrant une issue ou en soumettant une pull request.
+
+## Licence
+Ce projet est sous licence MIT.
+
 
 
